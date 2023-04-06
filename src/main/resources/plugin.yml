@@ -1,0 +1,5 @@
+name: DamageIndicator
+main: josscoder.damageindicator.DamageIndicatorPlugin
+api: 1.0.0
+version: ${project.version}
+author: Josscoder
